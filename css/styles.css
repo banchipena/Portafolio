@@ -7812,6 +7812,11 @@ textarea.form-control-lg {
   background-color: #1C88D4 !important;
 }
 
+.slider{
+  background-color: #000000 !important;
+
+}
+
 .bg-secondary {
   --bs-bg-opacity: 1;
   background-color: #222222 !important;
